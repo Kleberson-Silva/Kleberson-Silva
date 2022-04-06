@@ -1,5 +1,5 @@
 - 👋  Olá, eu me chamo Kleberson Silva, tenho 29 e estou cursando análise e desenvolvimento de sistemas na Estácio.
-- 👀  Sou trabalho como programador na NTD Soft.
+- 👀  Sou programador na NTD Soft.
 - 🌱 Atualmente estou me aprofundando em React e JavaScript.
 - 💞️ Estou Proucurando Colaborar com o que sei em projetos usando as linguagens que eu uso.
 - 📫 Como me alcançar, E-mail: silva.kleberson@gmail.com
