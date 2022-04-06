@@ -2,7 +2,7 @@
 - 👀  Sou trabalho como programador na NTD Soft.
 - 🌱 Atualmente estou me aprofundando em React e JavaScript.
 - 💞️ Estou Proucurando Colaborar com o que sei em projetos usando as linguagens que eu uso.
-- 📫 Como me alcançar, E-mails: faleconosco@kwebsites.com.br ou silva.kleberson@gmail.com
+- 📫 Como me alcançar, E-mail: silva.kleberson@gmail.com
   whatsapp: 81 99649-6335
 
 <!---
