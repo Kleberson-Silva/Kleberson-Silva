@@ -1,4 +1,4 @@
-- 👋  Olá, eu me chamo Kleberson Silva, tenho 30 anos e estou no ultimo período de análise e desenvolvimento de sistemas na Estácio.
+- 👋  Olá, eu me chamo Kleberson Silva, tenho 30 anos,Tenho graduação em análise e desenvolvimento de sistemas pela Estácio.
 - 🌱 Atualmente sou Supervisor do time de desenvolvimento de sistemas e aplicações na Ntd Soft.
 - 📫 Como me alcançar, E-mails: Silva.kleberson@gmail.com WhatsApp: 81 99649-6335
 
