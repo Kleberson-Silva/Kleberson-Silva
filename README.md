@@ -1,8 +1,10 @@
-- 👋  Olá, eu me chamo Kleberson Silva, tenho 30 anos,Tenho graduação em análise e desenvolvimento de sistemas pela Estácio.
-- 🌱 Atualmente sou Supervisor do time de desenvolvimento de sistemas e aplicações na Ntd Soft.
-- 📫 Como me alcançar, E-mails: Silva.kleberson@gmail.com WhatsApp: 81 99649-6335
+Atualmente sou Supervisor do time de desenvolvimento de sistemas e aplicações na Ntd Soft.
+sou formado em análise e desenvolvimento de sistemas na Estácio.
 
-<!---
-Kleberson-Silva/Kleberson-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aqui na empresa se tratando de Front-end eu  utilizo principalmente o React Native, React JS e Next.js.
+Na área do Back-end utilizo principalmente o Node JS, Mysql, Sql server, Firebase.
+Tenho conhecimentos sólidos em HTML, CSS, JavaScript, React, Next.js, Node.js, SQL, Styled Components, Material UI, 
+Kanban, Trello entre outros...
+
+Estou sempre procurando aprender mais, e expandindo meus conhecimentos para o me tornar um profissional melhor do que ontem.
+Tenho uma paixão por aprender e sempre me esforço para me manter atualizado com as últimas tecnologias e tendências da indústria. Com minha experiência em desenvolvimento, habilidades analíticas e visão orientada para o cliente, estou ansioso para trazer soluções inovadoras e eficazes para o seu projeto ou empresa.
